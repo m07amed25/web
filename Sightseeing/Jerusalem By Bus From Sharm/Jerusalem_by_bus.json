@@ -1,0 +1,43 @@
+{
+    "title": "Jerusalem Tour - The Holy City",
+    "overview": "Discover the ancient city of Jerusalem, one of the world's oldest cities and sacred to Judaism, Christianity, and Islam. Visit the Dead Sea, Mount of Olives, Western Wall, Via Dolorosa, and more in this full-day guided tour.",
+    "details": {
+      "duration": "2 Hours",
+      "availability": "Monday - Friday",
+      "price": {
+        "adult": "£135",
+        "child": "£125"
+      }
+    },
+    "highlights": [
+      "The Dead Sea - Float effortlessly in the saltiest body of water",
+      "The Mount of Olives - A spectacular view over the Old City & Temple Mount",
+      "Gethsemane - The site where Jesus spent his last night before arrest",
+      "Mount Zion - Visit The Last Supper Room & Dormition Abbey",
+      "Western Wall - The holiest site in Judaism",
+      "Via Dolorosa - Walk the path where Jesus carried the Cross",
+      "Church of the Holy Sepulcher - The site of Jesus’ crucifixion and tomb",
+      "Jaffa Gate - Exit through one of the most historic gates of Jerusalem"
+    ],
+    "includes": [
+      "All transfers by air-conditioned bus",
+      "Entrance fees",
+      "Entry visa to Jerusalem",
+      "English-speaking tour guide",
+      "Lunch during the tour"
+    ],
+    "excludes": [
+      "Drinks at the restaurant"
+    ],
+    "extra_tips": [
+      "Entry visa is included in the price.",
+      "If traveling to Cairo or Luxor after Jerusalem, do not obtain an entry visa for Cairo/Luxor until you return.",
+      "It's better to visit Cairo or Luxor before Jerusalem if both are booked.",
+      "Tailor-made private tours are available for larger groups upon request."
+    ],
+    "recommendations": [
+      "Bring your passport",
+      "Bring towels & swimwear for the Dead Sea"
+    ]
+  }
+  

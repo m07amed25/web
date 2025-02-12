@@ -1,0 +1,40 @@
+{
+    "title": "Petra Tour - The Rose City",
+    "overview": "Explore the breathtaking rock-cut architecture and ancient wonders of Petra, the lost city of the Nabataeans in Jordan. Witness the stunning SIQ Crack, El Khazneh (The Treasury), and other ancient monuments on this full-day guided tour.",
+    "details": {
+      "duration": "2 Hours",
+      "availability": "Monday - Friday",
+      "price": {
+        "adult": "£190",
+        "child": "£175"
+      }
+    },
+    "highlights": [
+      "The Lost City - Ancient Nabataean capital carved into rose-red cliffs",
+      "The SIQ Crack - A 1-kilometer-long canyon leading to Petra",
+      "El Khazneh (The Treasury) - A 140-ft-high, 90-ft-wide carved monument",
+      "Ancient Nabataean Structures - Temples, tombs, and a Roman theater"
+    ],
+    "includes": [
+      "All transfers by air-conditioned van",
+      "Entry visa to Jordan",
+      "English-speaking guide",
+      "Ferry boat tickets",
+      "Entrance fees",
+      "Lunch during the tour"
+    ],
+    "excludes": [
+      "Drinks at the restaurant",
+      "Horse or donkey ride at the canyon"
+    ],
+    "extra_tips": [
+      "The entry visa to Petra is included in the price.",
+      "If you plan to visit Cairo or Luxor after Petra, do not get an entry visa for either until you return.",
+      "Tailor-made private tours are available for larger groups upon request."
+    ],
+    "recommendations": [
+      "Bring your passport",
+      "Request a breakfast box from your hotel"
+    ]
+  }
+  
