@@ -1,12 +1,12 @@
 {
     "title": "Ras Mohamed Boat Trip",
     "overview": "A fantastic boat ride to the beautiful National Park of Ras Mohamed to snorkel and enjoy the stunning sea life and corals of the Red Sea, with three different stops for snorkeling.",
-    "pricing": {
-      "adult": "£60",
-      "child": "£40",
-      "availability": "Monday - Friday",
-      "duration": "2 Hours"
-    },
+    "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
+        },
     "schedule": {
       "pickup_time": "08:00 AM",
       "return_time": "04:30 PM",

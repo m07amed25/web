@@ -1,12 +1,12 @@
 {
     "title": "Luxury Sailing Boat Sina Dream - Sharm El Sheikh",
     "overview": "Experience a luxurious sailing adventure on the Sina Dream, exploring the best snorkeling sites in the Red Sea, including Ras Mohamed National Park and White Island.",
-    "pricing": {
-      "adult": "£60",
-      "child": "£40",
-      "availability": "Monday - Friday",
-      "duration": "2 Hours"
-    },
+    "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
+        },
     "schedule": {
       "pickup_time": "08:00 AM",
       "return_time": "Late Afternoon",

@@ -1,22 +1,12 @@
 {
     "Full-Day Outdoor Adventure Safari": {
       "Overview": "Experience a thrilling outdoor adventure with quad biking, a camel ride in the desert, lunch by the sea, and exciting water sports on the beach.",
-      "Pricing": {
-        "Price": [
-          {
-            "Type": "Adult",
-            "Amount": "£35",
-            "Availability": "Monday - Friday",
-            "Duration": "2 Hours"
-          },
-          {
-            "Type": "Child",
-            "Amount": "£15",
-            "Availability": "",
-            "Duration": ""
-          }
-        ]
-      },
+      "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
+        },
       "Tour Itinerary": {
         "Hotel Pickup": "Pickup from your hotel at 8:00 AM and a 20-minute drive to the Quad Biking station.",
         "Quad Biking Adventure": [

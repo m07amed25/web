@@ -1,12 +1,12 @@
 {
     "title": "Intro Diving & Snorkeling Adventure - Sharm El Sheikh",
     "overview": "Discover the breathtaking underwater world of the Red Sea, one of the best diving locations in the world! Whether you're a first-time diver or just looking to refresh your skills, this trip offers an unforgettable experience.",
-    "pricing": {
-      "adult": "£35",
-      "child": "£25",
-      "availability": "Monday - Friday",
-      "duration": "2 Hours"
-    },
+    "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
+        },
     "schedule": {
       "pickup_time": "08:00 AM",
       "return_time": "05:00 PM",

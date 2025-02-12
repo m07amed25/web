@@ -1,13 +1,11 @@
 {
     "title": "Semi Submarine Tour - Sharm El Sheikh",
     "overview": "Explore the Red Sea without getting wet! Enjoy stunning views of marine life, corals, and fish from the comfort of an air-conditioned armchair inside a semi-submarine. A perfect excursion for all ages!",
-    "details": {
-      "duration": "2 Hours",
-      "availability": "Monday - Friday",
-      "price": {
-        "adult": "£30",
-        "child": "£20"
-      }
+    "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
     },
     "stops": [
       {

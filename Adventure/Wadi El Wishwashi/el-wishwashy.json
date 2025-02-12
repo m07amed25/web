@@ -1,18 +1,12 @@
 {
   "title": "Wadi El Wishwashi",
   "overview": "Discover the Enchanting Wadi El Weshwash: A Nature Lover's Dream. Embark on an unforgettable adventure to Wadi El Weshwash, a hidden gem of breathtaking landscapes, adventure, and tranquility. Perfect for nature lovers, thrill-seekers, and those in need of relaxation, this experience combines desert safari thrills, mesmerizing canyons, and the magical Wishwashy Lake, where you can swim in crystal-clear waters.",
-  "pricing": {
-    "adult": {
-      "original_price": "£45",
-      "discounted_price": "£35"
-    },
-    "child": {
-      "original_price": "£25",
-      "discounted_price": "£20"
-    },
-    "availability": "Monday - Friday",
-    "duration": "2 Hours"
-  },
+  "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
+        },
   "itinerary": [
     "Early Morning Pickup: Pickup from hotel in Sharm El Sheikh in A/C van to Dahab City.",
     "Scenic Stop in Nuweiba: Capture panoramic views and switch to a 4x4 jeep.",
