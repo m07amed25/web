@@ -54,17 +54,17 @@ Don’t miss this incredible journey through Egypt’s hidden natural treasures�
 ## **Tour Include/Exclude**:
 
 ### ✅ **Tour Include**
-✅ All transfers by A/C van & jeep.
-✅ English speaking tour guide.
-✅ lunch during trip.
-✅ Bottled water.
-✅ Bedouin tea.
+- All transfers by A/C van & jeep.
+- English speaking tour guide.
+- lunch during trip.
+- Bottled water.
+- Bedouin tea.
 
 ### ❌ **Tour Exclude**
-❌ Extra drinks.
-❌ Snorkeling equipment.
-❌ Any extras not mentioned in the itinerary.
-❌ Personal expenses.
+- Extra drinks.
+- Snorkeling equipment.
+- Any extras not mentioned in the itinerary.
+- Personal expenses.
 
 ---
 
