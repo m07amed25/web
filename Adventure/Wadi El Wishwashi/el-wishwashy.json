@@ -1,0 +1,58 @@
+{
+    "title": "Wadi El Wishwashi",
+    "overview": "Discover the Enchanting Wadi El Weshwash: A Nature Lover’s Dream. Embark on an unforgettable adventure to Wadi El Weshwash, a hidden gem of breathtaking landscapes, adventure, and tranquility. Perfect for nature lovers, thrill-seekers, and those in need of relaxation, this experience combines desert safari thrills, mesmerizing canyons, and the magical Wishwashy Lake, where you can swim in crystal-clear waters.",
+    "pricing": {
+      "adult": {
+        "original_price": "£45",
+        "discounted_price": "£35"
+      },
+      "child": {
+        "original_price": "£25",
+        "discounted_price": "£20"
+      },
+      "availability": "Monday - Friday",
+      "duration": "2 Hours"
+    },
+    "itinerary": [
+      "Early Morning Pickup: Pickup from hotel in Sharm El Sheikh in A/C van to Dahab City.",
+      "Scenic Stop in Nuweiba: Capture panoramic views and switch to a 4×4 jeep.",
+      "Hiking & Exploration: Trek through the stunning canyon.",
+      "Swim in Wishwashy Lake (seasonal & optional).",
+      "Tea by the Sea: Relax at Ras Shitan’s camp with Bedouin tea.",
+      "Snorkeling & Lunch at Three Pools: Snorkel in crystal-clear waters and enjoy Bedouin lunch.",
+      "Dahab City & Shopping: Explore the promenade and bazaars.",
+      "Return to Sharm El Sheikh around 6:00 PM."
+    ],
+    "highlights": [
+      "Nuweiba",
+      "Wishwashy Grand Canyon",
+      "Ras Shitan",
+      "Panorama view at Taba",
+      "Dahab City"
+    ],
+    "tour_include": [
+      "All transfers by A/C van & jeep.",
+      "English-speaking tour guide.",
+      "Lunch during trip.",
+      "Bottled water.",
+      "Bedouin tea."
+    ],
+    "tour_exclude": [
+      "Extra drinks.",
+      "Snorkeling equipment.",
+      "Any extras not mentioned in the itinerary.",
+      "Personal expenses."
+    ],
+    "extra_info": {
+      "note": "The trip is not for kids till 10 years old.",
+      "private_tours": "Tailor-made private tours and packages can be arranged for larger groups upon request."
+    },
+    "recommendations": [
+      "Passports",
+      "Masks, snorkels (available for rent).",
+      "Swimwear & towels.",
+      "Sunglasses.",
+      "Money for souvenirs, drinks, and rental equipment."
+    ]
+  }
+  
