@@ -1,0 +1,66 @@
+{
+    "title": "Intro Diving & Snorkeling Adventure - Sharm El Sheikh",
+    "overview": "Discover the breathtaking underwater world of the Red Sea, one of the best diving locations in the world! Whether you're a first-time diver or just looking to refresh your skills, this trip offers an unforgettable experience.",
+    "pricing": {
+      "adult": "£35",
+      "child": "£25",
+      "availability": "Monday - Friday",
+      "duration": "2 Hours"
+    },
+    "schedule": {
+      "pickup_time": "08:00 AM",
+      "return_time": "05:00 PM",
+      "stops": [
+        {
+          "name": "Hotel Pickup",
+          "description": "Pickup from your hotel and transfer to the sea dock."
+        },
+        {
+          "name": "Sailing to Coral Reef Area",
+          "description": "Board the boat and head to the first stop."
+        },
+        {
+          "name": "Intro Dive",
+          "duration": "10 Minutes",
+          "description": "A professional dive master will guide you one-on-one for your first diving experience."
+        },
+        {
+          "name": "Snorkeling Stops",
+          "description": "Enjoy two snorkeling locations with colorful coral reefs and marine life."
+        },
+        {
+          "name": "Lunch on Board",
+          "description": "Relish a buffet lunch with soft drinks, tea, and coffee."
+        },
+        {
+          "name": "Return to Hotel",
+          "description": "Arrive back at your hotel in Sharm El Sheikh by 5:00 PM."
+        }
+      ]
+    },
+    "includes": [
+      "All transfers by an air-conditioned van",
+      "Dive master guide",
+      "Diving equipment (for diving session)",
+      "Lunch onboard",
+      "Unlimited water, soft drinks, tea & coffee"
+    ],
+    "excludes": [
+      "Snorkeling equipment (available for rent)",
+      "Life jackets (optional rental available)",
+      "Photos taken by the cameraman (optional purchase)"
+    ],
+    "extra_tips": [
+      "You can add an extra diving stop for an additional charge.",
+      "Diving equipment is included, but snorkeling equipment is not.",
+      "Each dive is done individually with a personal dive master.",
+      "If you send us a copy of your passport, you don’t need to bring it on the trip."
+    ],
+    "recommended_to_bring": [
+      "Swimwear & towels",
+      "Sunglasses",
+      "Snorkeling equipment",
+      "Copy of your passport"
+    ]
+  }
+  
