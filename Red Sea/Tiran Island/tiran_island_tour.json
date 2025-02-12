@@ -2,6 +2,12 @@
     "title": "VIP Boat Trip to Tiran Island",
     "overview": "A luxurious boat trip to Tiran Island, one of the top snorkeling destinations in the Red Sea. Enjoy snorkeling, stunning marine life, and a relaxing day at sea with three different snorkeling stops.",
     "location": "Tiran Island, Red Sea",
+    "pricing": {
+      "adult": "£25",
+      "child": "£15",
+      "availability": "Monday - Friday",
+      "duration": "2 Hours"
+    },
     "schedule": {
       "pickup_time": "08:00 AM",
       "return_time": "05:00 PM",

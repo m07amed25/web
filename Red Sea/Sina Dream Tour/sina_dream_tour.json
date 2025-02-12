@@ -1,0 +1,70 @@
+{
+    "title": "Luxury Sailing Boat Sina Dream - Sharm El Sheikh",
+    "overview": "Experience a luxurious sailing adventure on the Sina Dream, exploring the best snorkeling sites in the Red Sea, including Ras Mohamed National Park and White Island.",
+    "pricing": {
+      "adult": "£60",
+      "child": "£40",
+      "availability": "Monday - Friday",
+      "duration": "2 Hours"
+    },
+    "schedule": {
+      "pickup_time": "08:00 AM",
+      "return_time": "Late Afternoon",
+      "stops": [
+        {
+          "name": "Hotel Pickup",
+          "description": "Pickup from your hotel and transfer to the sea dock."
+        },
+        {
+          "name": "Sailing to Ras Mohamed",
+          "description": "Enjoy breathtaking views of the coastline as you sail."
+        },
+        {
+          "name": "First Snorkeling Stop",
+          "duration": "1.5 Hours",
+          "description": "Explore vibrant coral reefs and marine life at Ras Mohamed National Park."
+        },
+        {
+          "name": "Second Stop at White Island",
+          "description": "Travel by speedboat or zodiac to White Island and relax on the beach."
+        },
+        {
+          "name": "Lunch on Board",
+          "menu": [
+            "Salads & Sides: Fresh salads, Basmati rice, baked potatoes with curry sauce",
+            "Main Dishes: Egyptian Kofta, Pasta Napoli, chicken fajitas, fish in the oven, calamari, shrimp"
+          ]
+        },
+        {
+          "name": "Leisure & Relaxation",
+          "description": "Enjoy the comfortable upper deck, sun loungers, and swings over the sea."
+        },
+        {
+          "name": "Return to Hotel",
+          "description": "Arrive back at your hotel in Sharm El Sheikh."
+        }
+      ]
+    },
+    "includes": [
+      "All transfers by an air-conditioned van",
+      "English-speaking snorkeling guide",
+      "Lunch with seafood",
+      "Water, soft & hot drinks",
+      "Entrance fees"
+    ],
+    "excludes": [
+      "Snorkeling equipment (available for rent)",
+      "Fresh juice, Red Bull & ice cream",
+      "Photos taken by the cameraman (optional purchase)"
+    ],
+    "extra_tips": [
+      "Copies of passports are required for the trip.",
+      "Private bookings available for groups upon request."
+    ],
+    "recommended_to_bring": [
+      "Swimwear & towels",
+      "Sunglasses",
+      "Snorkeling equipment"
+    ]
+  }
+  
