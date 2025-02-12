@@ -1,0 +1,70 @@
+{
+    "title": "VIP Boat Trip to Tiran Island",
+    "overview": "A luxurious boat trip to Tiran Island, one of the top snorkeling destinations in the Red Sea. Enjoy snorkeling, stunning marine life, and a relaxing day at sea with three different snorkeling stops.",
+    "location": "Tiran Island, Red Sea",
+    "schedule": {
+      "pickup_time": "08:00 AM",
+      "return_time": "05:00 PM",
+      "stops": [
+        {
+          "name": "Hotel Pickup",
+          "duration": "20-minute drive",
+          "description": "Pickup from your hotel and transfer to the sea dock."
+        },
+        {
+          "name": "Sailing to Tiran Island",
+          "description": "Relax and enjoy the scenic boat ride with refreshments."
+        },
+        {
+          "name": "First Snorkeling Stop",
+          "description": "Explore vibrant coral reefs and colorful marine life."
+        },
+        {
+          "name": "Second Snorkeling Stop",
+          "description": "Another fantastic snorkeling location in the Red Sea."
+        },
+        {
+          "name": "Buffet Lunch",
+          "menu": ["Chicken", "Beef", "Rice", "Pasta", "Vegetable Salad"]
+        },
+        {
+          "name": "Third Snorkeling Stop",
+          "description": "Enjoy your final snorkeling session at a beautiful reef."
+        },
+        {
+          "name": "Return to Hotel",
+          "description": "Arrive back at your hotel around 5:00 PM."
+        }
+      ]
+    },
+    "optional": {
+      "scuba_diving": {
+        "price": "£15 per dive",
+        "duration": "10 minutes",
+        "includes": "All diving equipment",
+        "note": "Advance booking recommended to avoid higher charges on the boat."
+      }
+    },
+    "includes": [
+      "All transfers by A/C Van",
+      "English-speaking snorkeling guide",
+      "Unlimited Water, Soft Drinks, Tea & Nescafe",
+      "Buffet Lunch (Chicken, Beef, Rice, Pasta, Vegetable Salad)",
+      "Entrance Fees"
+    ],
+    "excludes": [
+      "Snorkeling equipment"
+    ],
+    "extra_tips": [
+      "No visa required for this trip.",
+      "Private bookings available for families at an extra charge.",
+      "Upgrade available to include an intro diving stop for £15 per person per dive.",
+      "Advance booking recommended for SCUBA diving to avoid higher prices on the boat."
+    ],
+    "recommended_to_bring": [
+      "Passports",
+      "Towels",
+      "Snorkeling Equipment"
+    ]
+  }
+  
