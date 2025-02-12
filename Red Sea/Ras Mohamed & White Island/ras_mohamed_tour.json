@@ -1,0 +1,59 @@
+{
+    "title": "Ras Mohamed Boat Trip",
+    "overview": "A fantastic boat ride to the beautiful National Park of Ras Mohamed to snorkel and enjoy the stunning sea life and corals of the Red Sea, with three different stops for snorkeling.",
+    "schedule": {
+      "pickup_time": "08:00 AM",
+      "return_time": "04:30 PM",
+      "stops": [
+        {
+          "name": "First Snorkeling Stop",
+          "duration": "45 minutes",
+          "description": "One of the best snorkeling spots in the national park to see colorful fishes, corals, and reefs."
+        },
+        {
+          "name": "Second Snorkeling Stop",
+          "duration": "30 minutes sail",
+          "description": "Another stunning coral reef with vibrant marine life."
+        },
+        {
+          "name": "Lunch Break",
+          "description": "Buffet lunch served on board before the final stop."
+        },
+        {
+          "name": "Third Stop - White Island",
+          "duration": "1 hour",
+          "description": "Enjoy relaxation and fun at the beautiful White Island."
+        }
+      ]
+    },
+    "optional": {
+      "scuba_diving": {
+        "price": "£15 per dive",
+        "duration": "10 minutes",
+        "includes": "All diving equipment",
+        "note": "Advance booking is recommended to avoid higher charges on the boat."
+      }
+    },
+    "includes": [
+      "All transfers by A/C Van",
+      "English-speaking snorkeling guide",
+      "Unlimited water, soft drinks, tea, and Nescafe",
+      "Buffet Lunch (Chicken, Beef, Rice, Pasta, Vegetable Salad)",
+      "Entrance Fees"
+    ],
+    "excludes": [
+      "Snorkeling equipment",
+      "Photos taken by the cameraman (optional purchase)"
+    ],
+    "extra_tips": [
+      "No visa required for this trip.",
+      "Private booking available for families at an extra charge.",
+      "Upgrade available to include an intro diving stop for £15 per person per dive.",
+      "Advance booking recommended for intro diving to avoid higher prices on the boat."
+    ],
+    "recommended_to_bring": [
+      "Passports",
+      "Towels",
+      "Snorkeling Equipment"
+    ]
+  }
