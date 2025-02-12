@@ -1,0 +1,72 @@
+{
+    "title": "Canyon & Blue Hole Adventure",
+    "overview": {
+        "price": {
+            "adult": "\u00a325",
+            "child": "\u00a315",
+            "availability": "Monday - Friday",
+            "duration": "2 Hours"
+        },
+        "description": "Your journey begins with a comfortable air-conditioned van pickup from your hotel, followed by a two-hour drive to the breathtaking Coloured Canyon. Located 10 km south of Dahab, this deep desert oasis offers a truly unique experience."
+    },
+    "itinerary": {
+        "coloured_canyon": [
+            "Spend 45 minutes walking through the stunning canyon.",
+            "Enjoy the spectacular rock formations and their extraordinary colors.",
+            "In winter, witness water oozing from the cracks in the mountains.",
+            "Complimentary refreshments (water) provided."
+        ],
+        "camel_ride": [
+            "After a 45-minute drive to Dahab city, embark on a 20-minute camel ride along the beautiful shoreline of the Aqaba Gulf.",
+            "Marvel at the crystal-clear waters of the Red Sea as you ride."
+        ],
+        "snorkeling_blue_hole": [
+            "Prepare for an unforgettable 45-minute snorkeling experience at the famous Blue Hole, one of the world\u2019s best spots for diving and snorkeling."
+        ],
+        "lunch_relaxation": [
+            "After snorkeling, unwind in a Bedouin tent by the sea.",
+            "Enjoy a delicious lunch with stunning seaside views (drinks not included)."
+        ],
+        "shopping_dahab": [
+            "End your adventure with a visit to Dahab\u2019s bazaar, where you can explore local markets and shop for souvenirs.",
+            "After shopping, you\u2019ll be driven back to your hotel."
+        ]
+    },
+    "highlights": [
+        "The Coloured Canyon \u2013 Unique rock formations & breathtaking views",
+        "Camel Riding \u2013 Scenic ride along the Aqaba Gulf shoreline",
+        "The Blue Hole \u2013 World-class snorkeling & marine beauty",
+        "Lunch by the Sea \u2013 Traditional meal in a Bedouin tent",
+        "Shopping in Dahab \u2013 Explore the local bazaar"
+    ],
+    "tour_includes_excludes": {
+        "includes": [
+            "All transfers by A/C van",
+            "English-speaking guide",
+            "Camel ride",
+            "Lunch"
+        ],
+        "excludes": [
+            "Snorkeling equipment (available for rent at an extra charge)",
+            "Drinks during lunch"
+        ]
+    },
+    "extra_tips": {
+        "optional_add_ons": [
+            "Quad biking for 30 minutes (available at an extra charge)",
+            "Snorkeling equipment rental (if needed)"
+        ],
+        "important_notes": [
+            "The trip is not suitable for those who cannot walk long distances.",
+            "Tailor-made private tours and packages are available for larger groups upon request."
+        ]
+    },
+    "recommended_to_bring": [
+        "Passports (for identification)",
+        "Towels & swimwear (for snorkeling & beach activities)",
+        "Sport shoes or trainers (for comfortable walking in the canyon)",
+        "Jacket or sweater (during winter months)",
+        "Extra water (especially in summer)",
+        "Snorkeling equipment (if you have your own)"
+    ]
+}
