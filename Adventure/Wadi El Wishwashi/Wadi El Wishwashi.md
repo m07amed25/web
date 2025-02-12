@@ -2,6 +2,15 @@
 # Wadi El Wishwashi
 ## **Overview**
 
+### **Price:**
+
+| Price        | Availability     | Duration   |
+|-------------|----------------|-----------|
+| ~~£45~~ **£35** / Adult | **Monday - Friday** | **2 Hours** |
+| ~~£25~~ **£20** / Child |                |           |
+
+
+---
 **Discover the Enchanting Wadi El Weshwash: A Nature Lover’s Dream**  
 
 Embark on an unforgettable adventure to **Wadi El Weshwash**, a hidden gem of breathtaking landscapes, adventure, and tranquility. Perfect for nature lovers, thrill-seekers, and those in need of relaxation, this experience combines desert safari thrills, mesmerizing canyons, and the magical **Wishwashy Lake**, where you can swim in crystal-clear waters.  
