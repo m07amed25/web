@@ -38,14 +38,14 @@
         }
       ]
     },
-    "includes": [
+    "include": [
       "All transfers by an air-conditioned van",
       "Dive master guide",
       "Diving equipment (for diving session)",
       "Lunch onboard",
       "Unlimited water, soft drinks, tea & coffee"
     ],
-    "excludes": [
+    "exclude": [
       "Snorkeling equipment (available for rent)",
       "Life jackets (optional rental available)",
       "Photos taken by the cameraman (optional purchase)"

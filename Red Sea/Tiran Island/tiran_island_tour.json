@@ -51,14 +51,14 @@
         "note": "Advance booking recommended to avoid higher charges on the boat."
       }
     },
-    "includes": [
+    "include": [
       "All transfers by A/C Van",
       "English-speaking snorkeling guide",
       "Unlimited Water, Soft Drinks, Tea & Nescafe",
       "Buffet Lunch (Chicken, Beef, Rice, Pasta, Vegetable Salad)",
       "Entrance Fees"
     ],
-    "excludes": [
+    "exclude": [
       "Snorkeling equipment"
     ],
     "extra_tips": [

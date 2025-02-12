@@ -31,22 +31,20 @@
         "Glass Bottom Boat - Discover the underwater world",
         "Parasailing - Breathtaking aerial views"
       ],
-      "Tour Includes & Excludes": {
-        "Includes": [
-          "All transfers by A/C van",
-          "English-speaking tour guide",
-          "Quad biking & camel ride",
-          "Lunch on the beach with soft drinks",
-          "Water sports (Banana Boat, Glass Bottom Boat, Parasailing)"
-        ],
-        "Excludes": [
-          "Head scarves for quad biking (bring your own or available for purchase)",
-          "Extras not mentioned in the program",
-          "Photos/videos taken by cameramen (optional purchase)"
-        ]
-      },
-      "Extra Tips": "Tailor-made private tours and packages available for larger groups upon request.",
-      "Recommended to Bring": [
+      "include": [
+        "All transfers by A/C van",
+        "English-speaking tour guide",
+        "Quad biking & camel ride",
+        "Lunch on the beach with soft drinks",
+        "Water sports (Banana Boat, Glass Bottom Boat, Parasailing)"
+      ],
+      "exclude": [
+        "Head scarves for quad biking (bring your own or available for purchase)",
+        "Extras not mentioned in the program",
+        "Photos/videos taken by cameramen (optional purchase)"
+      ],
+      "extra_tips": "Tailor-made private tours and packages available for larger groups upon request.",
+      "recommended_to_bring": [
         "Sunglasses & head scarf (for quad biking protection)",
         "Sport shoes or trainers (for comfortable riding & walking)",
         "Towels & swimwear (for water activities)"

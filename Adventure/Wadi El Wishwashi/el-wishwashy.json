@@ -17,31 +17,31 @@
     "Dahab City & Shopping: Explore the promenade and bazaars.",
     "Return to Sharm El Sheikh around 6:00 PM."
   ],
-  "highlights": [
+  "Highlights": [
     "Nuweiba",
     "Wishwashy Grand Canyon",
     "Ras Shitan",
     "Panorama view at Taba",
     "Dahab City"
   ],
-  "tour_include": [
+  "include": [
     "All transfers by A/C van & jeep.",
     "English-speaking tour guide.",
     "Lunch during trip.",
     "Bottled water.",
     "Bedouin tea."
   ],
-  "tour_exclude": [
+  "exclude": [
     "Extra drinks.",
     "Snorkeling equipment.",
     "Any extras not mentioned in the itinerary.",
     "Personal expenses."
   ],
-  "extra_info": {
-    "note": "The trip is not for kids till 10 years old.",
-    "private_tours": "Tailor-made private tours and packages can be arranged for larger groups upon request."
-  },
-  "recommendations": [
+  "extra_tips": [
+    "The trip is not for kids till 10 years old.",
+    "Tailor-made private tours and packages can be arranged for larger groups upon request."
+  ],
+  "recommended_to_bring": [
     "Passports",
     "Masks, snorkels (available for rent).",
     "Swimwear & towels.",

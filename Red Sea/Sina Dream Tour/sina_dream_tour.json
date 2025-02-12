@@ -45,14 +45,14 @@
         }
       ]
     },
-    "includes": [
+    "include": [
       "All transfers by an air-conditioned van",
       "English-speaking snorkeling guide",
       "Lunch with seafood",
       "Water, soft & hot drinks",
       "Entrance fees"
     ],
-    "excludes": [
+    "exclude": [
       "Snorkeling equipment (available for rent)",
       "Fresh juice, Red Bull & ice cream",
       "Photos taken by the cameraman (optional purchase)"
