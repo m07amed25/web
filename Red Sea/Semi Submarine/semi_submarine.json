@@ -1,0 +1,38 @@
+{
+    "title": "Semi Submarine Tour - Sharm El Sheikh",
+    "overview": "Explore the Red Sea without getting wet! Enjoy stunning views of marine life, corals, and fish from the comfort of an air-conditioned armchair inside a semi-submarine. A perfect excursion for all ages!",
+    "details": {
+      "duration": "2 Hours",
+      "availability": "Monday - Friday",
+      "price": {
+        "adult": "£30",
+        "child": "£20"
+      }
+    },
+    "stops": [
+      {
+        "name": "Underwater Viewing Stop",
+        "description": "Spend 60 minutes, 3 meters below the surface, observing coral reefs, exotic fish, and marine life through 18 panoramic windows."
+      },
+      {
+        "name": "Upper Deck Scenic Stop",
+        "description": "Spend 30 minutes enjoying breathtaking views of Sharm El Maya Bay and the surrounding mountains."
+      }
+    ],
+    "includes": [
+      "All transfers by an air-conditioned van",
+      "Guided information at the semi-submarine"
+    ],
+    "excludes": [
+      "Photos taken by the camera operator (optional)"
+    ],
+    "extra_tips": [
+      "This is a family-friendly excursion suitable for all ages!"
+    ],
+    "recommendations": [
+      "Bring your ticket or booking confirmation",
+      "Sunglasses & hat for the upper deck",
+      "Camera or smartphone for photos"
+    ]
+  }
+  
